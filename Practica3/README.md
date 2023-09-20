@@ -92,3 +92,6 @@
 
 #### Observamos las imagenes subida en Docker Hub
 ![Alt text](images/image15.png)
+
+#### Diagrama modelo entidad relacion
+![Alt text](images/diagrama.png)
