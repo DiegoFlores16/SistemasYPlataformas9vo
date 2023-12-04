@@ -1,7 +1,0 @@
-{
-  "name": "medical-front",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
