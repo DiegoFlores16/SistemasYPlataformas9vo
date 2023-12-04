@@ -38,7 +38,7 @@ Dockeriza tu aplicación NestJS (preferiblemente un servicio REST o GraphQL sin 
 Asegúrate de que la imagen puede ser compilada con el siguiente comando:
 bash
 docker login
-docker build -t byotony/webhooks:latest .
+docker build -t diegoflo/webhooks:latest .
 Verifica el funcionamiento de la aplicación.
 ![Alt text](img/image9.png)
 ![Alt text](img/image10.png)
